@@ -1,7 +1,7 @@
 build:
   version: 0.0.1-prod
 account:
-  message: 'Welcome to EazyBank Accounts Production api'
+  message: 'Welcome to EazyBank Accounts Prod api'
   contactDetails:
     name: 'John Doe Prod support'
     email: 'p3sQc@example.com'
