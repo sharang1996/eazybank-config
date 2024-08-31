@@ -5,7 +5,7 @@ spring:
 build:
   version: 0.0.1-prod
 loan:
-  message: 'Welcome to EazyBank Loan Prod api'
+  message: 'Welcome to EazyBank Loan Prod api with webhooks!'
   contactDetails:
     name: 'John Doe Prod support'
     email: 'p3sQc@example.com'
